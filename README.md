@@ -11,3 +11,6 @@ fooLibrary
 ├── src
 ```
 
+The top folder must have the same name as the java archive (.jar)
+e.g. ```fooLibrary -> fooLibrary.jar```.
+
